@@ -25,12 +25,5 @@ I am a passionate DevOps Engineer with around 2 years of IT experience, focused 
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
 
 Thanks for visiting!
