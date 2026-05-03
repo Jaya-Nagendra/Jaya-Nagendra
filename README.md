@@ -35,7 +35,7 @@ I am a passionate DevOps Engineer with around 2 years of IT experience, focused 
 
 ### 💼 Career Snapshot
 
-- 🏢 Wipro – DevOps Engineer
+- 🏢 **Wipro – DevOps Engineer**
 Managing cloud infrastructure, CI/CD automation, container deployments, infrastructure provisioning, and monitoring processes across enterprise application environments.
 
 ---
