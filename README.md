@@ -24,6 +24,13 @@ I am a passionate DevOps Engineer with around 2 years of IT experience, focused 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jaya-Nagendra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jaya-Nagendra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+Thanks for visiting!
