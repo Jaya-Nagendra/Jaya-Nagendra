@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/Jaya-Nagendra/Jaya-Nagendra/blob/main/lin_banner.png.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Jaya-Nagendra/Jaya-Nagendra/blob/main/lin_banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 
-# 👋 Hi, I'm Hari Krishna Palepu
+# 👋 Hi, I'm Jaya Nagendra
 
 ### Devops Engineer – @ Wipro
 🚀 DevOps | AWS | Linux | Jenkins | Docker | Kubernetes | Terraform | CI/CD
