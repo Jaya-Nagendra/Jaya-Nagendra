@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Jaya-Nagendra/Jaya-Nagendra/blob/main/Jaya_Nagendra_banner-1.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Jaya-Nagendra/Jaya-Nagendra/blob/main/lin_banner.png.png" alt="GitHub Banner" width="800"/>
 </div>
 
 
