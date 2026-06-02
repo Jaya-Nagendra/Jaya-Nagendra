@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Jaya-Nagendra/Jaya-Nagendra/blob/main/lin_banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
@@ -49,4 +49,4 @@ Managing cloud infrastructure, CI/CD automation, container deployments, infrastr
 ---
 
 
-Thanks for visiting!
+Thanks for visiting! -->
